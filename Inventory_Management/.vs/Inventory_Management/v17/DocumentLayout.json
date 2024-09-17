@@ -1,0 +1,179 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ABMS\\Desktop\\ABMS_Inventory_Management\\Inventory_Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FBAA701-4D98-4C99-B87A-A62CDF7EFD9F}|Inventory_Management.csproj|c:\\users\\abms\\desktop\\abms_inventory_management\\inventory_management\\deleteitem.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FBAA701-4D98-4C99-B87A-A62CDF7EFD9F}|Inventory_Management.csproj|solutionrelative:deleteitem.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FBAA701-4D98-4C99-B87A-A62CDF7EFD9F}|Inventory_Management.csproj|c:\\users\\abms\\desktop\\abms_inventory_management\\inventory_management\\inventorypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FBAA701-4D98-4C99-B87A-A62CDF7EFD9F}|Inventory_Management.csproj|solutionrelative:inventorypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FBAA701-4D98-4C99-B87A-A62CDF7EFD9F}|Inventory_Management.csproj|c:\\users\\abms\\desktop\\abms_inventory_management\\inventory_management\\deleteitem.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3FBAA701-4D98-4C99-B87A-A62CDF7EFD9F}|Inventory_Management.csproj|solutionrelative:deleteitem.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FBAA701-4D98-4C99-B87A-A62CDF7EFD9F}|Inventory_Management.csproj|c:\\users\\abms\\desktop\\abms_inventory_management\\inventory_management\\inventorypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3FBAA701-4D98-4C99-B87A-A62CDF7EFD9F}|Inventory_Management.csproj|solutionrelative:inventorypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FBAA701-4D98-4C99-B87A-A62CDF7EFD9F}|Inventory_Management.csproj|c:\\users\\abms\\desktop\\abms_inventory_management\\inventory_management\\userpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3FBAA701-4D98-4C99-B87A-A62CDF7EFD9F}|Inventory_Management.csproj|solutionrelative:userpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FBAA701-4D98-4C99-B87A-A62CDF7EFD9F}|Inventory_Management.csproj|c:\\users\\abms\\desktop\\abms_inventory_management\\inventory_management\\updateitem.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FBAA701-4D98-4C99-B87A-A62CDF7EFD9F}|Inventory_Management.csproj|solutionrelative:updateitem.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FBAA701-4D98-4C99-B87A-A62CDF7EFD9F}|Inventory_Management.csproj|c:\\users\\abms\\desktop\\abms_inventory_management\\inventory_management\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FBAA701-4D98-4C99-B87A-A62CDF7EFD9F}|Inventory_Management.csproj|solutionrelative:loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FBAA701-4D98-4C99-B87A-A62CDF7EFD9F}|Inventory_Management.csproj|c:\\users\\abms\\desktop\\abms_inventory_management\\inventory_management\\currentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FBAA701-4D98-4C99-B87A-A62CDF7EFD9F}|Inventory_Management.csproj|solutionrelative:currentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FBAA701-4D98-4C99-B87A-A62CDF7EFD9F}|Inventory_Management.csproj|c:\\users\\abms\\desktop\\abms_inventory_management\\inventory_management\\inventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FBAA701-4D98-4C99-B87A-A62CDF7EFD9F}|Inventory_Management.csproj|solutionrelative:inventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FBAA701-4D98-4C99-B87A-A62CDF7EFD9F}|Inventory_Management.csproj|c:\\users\\abms\\desktop\\abms_inventory_management\\inventory_management\\updateitem.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3FBAA701-4D98-4C99-B87A-A62CDF7EFD9F}|Inventory_Management.csproj|solutionrelative:updateitem.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeleteItem.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ABMS\\Desktop\\ABMS_Inventory_Management\\Inventory_Management\\DeleteItem.xaml.cs",
+              "RelativeDocumentMoniker": "DeleteItem.xaml.cs",
+              "ToolTip": "C:\\Users\\ABMS\\Desktop\\ABMS_Inventory_Management\\Inventory_Management\\DeleteItem.xaml.cs",
+              "RelativeToolTip": "DeleteItem.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T06:09:00.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeleteItem.xaml",
+              "DocumentMoniker": "C:\\Users\\ABMS\\Desktop\\ABMS_Inventory_Management\\Inventory_Management\\DeleteItem.xaml",
+              "RelativeDocumentMoniker": "DeleteItem.xaml",
+              "ToolTip": "C:\\Users\\ABMS\\Desktop\\ABMS_Inventory_Management\\Inventory_Management\\DeleteItem.xaml",
+              "RelativeToolTip": "DeleteItem.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-09T14:04:30.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InventoryPage.xaml",
+              "DocumentMoniker": "C:\\Users\\ABMS\\Desktop\\ABMS_Inventory_Management\\Inventory_Management\\InventoryPage.xaml",
+              "RelativeDocumentMoniker": "InventoryPage.xaml",
+              "ToolTip": "C:\\Users\\ABMS\\Desktop\\ABMS_Inventory_Management\\Inventory_Management\\InventoryPage.xaml",
+              "RelativeToolTip": "InventoryPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-28T12:06:48.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateItem.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ABMS\\Desktop\\ABMS_Inventory_Management\\Inventory_Management\\UpdateItem.xaml.cs",
+              "RelativeDocumentMoniker": "UpdateItem.xaml.cs",
+              "ToolTip": "C:\\Users\\ABMS\\Desktop\\ABMS_Inventory_Management\\Inventory_Management\\UpdateItem.xaml.cs",
+              "RelativeToolTip": "UpdateItem.xaml.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAHUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T13:24:30.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CurrentUser.cs",
+              "DocumentMoniker": "C:\\Users\\ABMS\\Desktop\\ABMS_Inventory_Management\\Inventory_Management\\CurrentUser.cs",
+              "RelativeDocumentMoniker": "CurrentUser.cs",
+              "ToolTip": "C:\\Users\\ABMS\\Desktop\\ABMS_Inventory_Management\\Inventory_Management\\CurrentUser.cs",
+              "RelativeToolTip": "CurrentUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T11:29:57.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InventoryPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ABMS\\Desktop\\ABMS_Inventory_Management\\Inventory_Management\\InventoryPage.xaml.cs",
+              "RelativeDocumentMoniker": "InventoryPage.xaml.cs",
+              "ToolTip": "C:\\Users\\ABMS\\Desktop\\ABMS_Inventory_Management\\Inventory_Management\\InventoryPage.xaml.cs",
+              "RelativeToolTip": "InventoryPage.xaml.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAUwN8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:39:52.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserPage.xaml",
+              "DocumentMoniker": "C:\\Users\\ABMS\\Desktop\\ABMS_Inventory_Management\\Inventory_Management\\UserPage.xaml",
+              "RelativeDocumentMoniker": "UserPage.xaml",
+              "ToolTip": "C:\\Users\\ABMS\\Desktop\\ABMS_Inventory_Management\\Inventory_Management\\UserPage.xaml",
+              "RelativeToolTip": "UserPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-09T14:03:04.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ABMS\\Desktop\\ABMS_Inventory_Management\\Inventory_Management\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ABMS\\Desktop\\ABMS_Inventory_Management\\Inventory_Management\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "LoginWindow.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAiwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T11:35:22.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateItem.xaml",
+              "DocumentMoniker": "C:\\Users\\ABMS\\Desktop\\ABMS_Inventory_Management\\Inventory_Management\\UpdateItem.xaml",
+              "RelativeDocumentMoniker": "UpdateItem.xaml",
+              "ToolTip": "C:\\Users\\ABMS\\Desktop\\ABMS_Inventory_Management\\Inventory_Management\\UpdateItem.xaml",
+              "RelativeToolTip": "UpdateItem.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-28T13:26:53.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InventoryItem.cs",
+              "DocumentMoniker": "C:\\Users\\ABMS\\Desktop\\ABMS_Inventory_Management\\Inventory_Management\\InventoryItem.cs",
+              "RelativeDocumentMoniker": "InventoryItem.cs",
+              "ToolTip": "C:\\Users\\ABMS\\Desktop\\ABMS_Inventory_Management\\Inventory_Management\\InventoryItem.cs",
+              "RelativeToolTip": "InventoryItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T11:16:27.779Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

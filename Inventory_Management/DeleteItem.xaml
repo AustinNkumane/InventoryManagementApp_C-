@@ -1,0 +1,65 @@
+﻿<Window x:Class="Inventory_Management.DeleteItem"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Inventory_Management"
+        mc:Ignorable="d"
+        Title="Delete Item" Height="600" Width="1200" WindowStyle="None">
+    <Window.Background>
+        <SolidColorBrush Color="White"/>
+    </Window.Background>
+
+    <Grid Margin="10" Background="White">
+        <!-- Define Rows -->
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <!-- Top Row for User Info -->
+            <RowDefinition Height="*" />
+            <!-- Main Content Row -->
+        </Grid.RowDefinitions>
+
+        <!-- Define Columns -->
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="2*" />
+        </Grid.ColumnDefinitions>
+
+        <!-- Left Column: Side Navigation Bar -->
+        <Border Background="White" CornerRadius="0" BorderBrush="DarkGreen" BorderThickness="2" Margin="20" Width="250" Height="350">
+            <StackPanel Grid.Column="0" Background="White" VerticalAlignment="Stretch" HorizontalAlignment="Left" Width="250" >
+                <TextBlock Text="Navigation" FontSize="25" FontWeight="Bold" Foreground="Black" Margin="10"/>
+
+                <Button Content="User" Style="{StaticResource ModernButtonStyle}" Margin="10" Click="UpdateInfo_Click"/>
+                <Button Content="Add New Item" Style="{StaticResource ModernButtonStyle}" Margin="10" Click="AddNewItem_Click"/>
+                <Button Content="Dashboard" Style="{StaticResource ModernButtonStyle}" Margin="10" Click="Dashboard_Click"/>
+                <Button Content="Logout" Style="{StaticResource ModernButtonStyle}" Margin="10" Click="Logout_Click"/>
+
+                <!-- Add more buttons or links as needed -->
+            </StackPanel>
+        </Border>
+
+        <!-- Right Column: DataGrid for Items -->
+        <DataGrid x:Name="ItemDataGrid" Grid.Column="1" AutoGenerateColumns="False" CanUserAddRows="False" Margin="10">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Item Name" Binding="{Binding ItemName}" Width="*"/>
+                <DataGridTextColumn Header="Description" Binding="{Binding Description}" Width="*"/>
+                <DataGridTextColumn Header="Quantity" Binding="{Binding Quantity}" Width="*"/>
+                <DataGridTemplateColumn Header="Picture" Width="Auto">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Image Source="{Binding Picture, Converter={StaticResource ByteArrayToImageConverter}}" Width="50" Height="50"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTemplateColumn Header="Actions" Width="Auto">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Content="Delete" Width="100" Click="DeleteItem_Click" Tag="{Binding Item_ID}"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>
